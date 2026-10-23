@@ -1,0 +1,11 @@
+{
+  "days": [
+    { "day": 1, "type": "coins", "amount": 10, "label": "10 Coins" },
+    { "day": 2, "type": "coins", "amount": 20, "label": "20 Coins" },
+    { "day": 3, "type": "diamonds", "amount": 8, "label": "8 Diamonds" },
+    { "day": 4, "type": "coins", "amount": 30, "label": "30 Coins" },
+    { "day": 5, "type": "coins", "amount": 50, "label": "50 Coins" },
+    { "day": 6, "type": "coins", "amount": 60, "label": "60 Coins" },
+    { "day": 7, "type": "emoji", "itemId": "🔥", "label": "Fire Emoji" }
+  ]
+}
