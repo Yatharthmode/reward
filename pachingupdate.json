@@ -2,11 +2,11 @@
   "versionCode": 10,
   "versionName": "1.0.10",
   "downloadUrl": "YAHAN_APK_KA_ASLI_DOWNLOAD_LINK",
-  "message": "Naya update available hai!",
+  "message": "New update available!",
   "details": [
-    "Online board sync improve kiya",
-    "Offline AI turn bug fix kiya",
-    "online board fix"
+    "Added Online Call System",
+    "Improved Online Board Synchronization",
+    "Fixed Offline AI Turn Bug"
   ],
   "forceUpdate": false
 }
