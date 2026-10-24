@@ -3,5 +3,11 @@
   "versionName": "1.0.10",
   "downloadUrl": "YAHAN_APK_KA_ASLI_DOWNLOAD_LINK",
   "message": "Naya update available hai!",
+  "details": [
+    "Online board sync improve kiya",
+    "Offline AI turn bug fix kiya",
+    "WhatsApp aur Instagram links sahi se open honge",
+    "Naya animated update dialog"
+  ],
   "forceUpdate": false
 }
