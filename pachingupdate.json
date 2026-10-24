@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.1.0",
+  "versionCode": 9,
+  "versionName": "1.0.9",
   "downloadUrl": "https://example.com/app.apk",
   "message": "Naya version available hai.",
   "forceUpdate": false
