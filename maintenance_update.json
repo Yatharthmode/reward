@@ -1,13 +1,14 @@
-"maintenance": {
+{
+  "maintenance": {
     "enabled": true,
     "startTime": "2026-10-25T01:00:00+05:30",
     "endTime": "2026-10-25T03:00:00+05:30",
-    "title": "Game maintenance",
-    "message": "Game update ho raha hai. Maintenance khatam hone par wapas aaiye.",
+    "title": "Game Maintenance",
+    "message": "Game update ho raha hai. Maintenance khatam hone ke baad dobara aaiye.",
     "details": [
-      "Naya event",
-      "Bug fixes",
-      "Naya system"
+      "New Event",
+      "Bug Fixes",
+      "New System"
     ]
   }
 }
