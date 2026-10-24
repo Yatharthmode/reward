@@ -1,15 +1,4 @@
-{
-  "versionCode": 10,
-  "versionName": "1.0.10",
-  "downloadUrl": "YAHAN_APK_KA_ASLI_DOWNLOAD_LINK",
-  "message": "Naya update available hai!",
-  "details": [
-    "Naya event aa raha hai",
-    "Main bugs fix kiye",
-    "Naya game system add kiya"
-  ],
-  "forceUpdate": false,
-  "maintenance": {
+"maintenance": {
     "enabled": true,
     "startTime": "2026-10-25T01:00:00+05:30",
     "endTime": "2026-10-25T03:00:00+05:30",
