@@ -1,6 +1,6 @@
 {
   "maintenance": {
-    "enabled": true,
+    "enabled": false,
     "startTime": "2026-11-04T17:39:00+05:30",
     "endTime": "2026-11-14T17:39:00+05:30",
     "title": "Server Temporarily Offline",
