@@ -8,5 +8,5 @@
     "Improved Online Board Synchronization",
     "Fixed Offline AI Turn Bug"
   ],
-  "forceUpdate": false
+  "forceUpdate": true
 }
