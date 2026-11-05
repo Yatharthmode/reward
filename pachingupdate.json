@@ -4,7 +4,7 @@
   "downloadUrl": "https://raw.githubusercontent.com/Yatharthmode/reward/refs/heads/main/app-debug.apk",
   "message": "New update available!",
   "details": [
-    "Added Online Call System",
+    "Added Real-Time Voice Calling with Friends in Online Multiplayer Mode",
     "Improved Online Board Synchronization",
     "Fixed Offline AI Turn Bug"
   ],
