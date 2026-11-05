@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "1.0.12",
-  "downloadUrl": "https://raw.githubusercontent.com/Yatharthmode/reward/refs/heads/main/app-debug.apk",
+  "versionCode": 13,
+  "versionName": "1.0.13",
+  "downloadUrl": "",
   "message": "New update available!",
   "details": [
     "Added Online Voice Calling with Friends",
