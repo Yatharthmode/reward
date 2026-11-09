@@ -6,8 +6,7 @@
   "details": [
     "Added Random Matchmaking",
     "Added Player Names and Avatars",
-    "Added 5-Second VS Countdown",
-    "Updated Tic-Tac-Toe Start Button Design"
+    "Added 5-Second VS Countdown"
   ],
   "forceUpdate": true
 }
