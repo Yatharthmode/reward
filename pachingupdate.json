@@ -1,12 +1,13 @@
 {
-  "versionCode": 15,
-  "versionName": "1.0.15",
+  "versionCode": 16,
+  "versionName": "1.0.16",
   "downloadUrl": "https://github.com/Yatharthmode/reward/raw/refs/heads/main/app-debug.apk",
   "message": "New update available!",
   "details": [
-    "Added Online Voice Calling with Friends",
-    "Improved Online Board Synchronization",
-    "Fixed Offline AI Turn Bug"
+    "Added Random Matchmaking",
+    "Added Player Names and Avatars",
+    "Added 5-Second VS Countdown",
+    "Updated Tic-Tac-Toe Start Button Design"
   ],
   "forceUpdate": true
 }
