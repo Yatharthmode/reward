@@ -1,12 +1,12 @@
 {
   "maintenance": {
-    "enabled": false,
-    "startTime": "2026-11-04T17:39:00+05:30",
-    "endTime": "2026-11-14T17:39:00+05:30",
+    "enabled": true,
+    "startTime": "2026-11-12T01:33:00+05:30",
+    "endTime": "2026-11-14T01:33:00+05:30",
     "title": "Server Temporarily Offline",
-    "message": "Game server agle 10 din ke liye band rahega. Kripya server dobara online hone tak intezar karein.",
+    "message": "Game server agle 2 din ke liye band rahega. Kripya server dobara online hone tak intezar karein.",
     "details": [
-      "Server Offline for 10 Days"
+      "Server Offline for 2 Days"
     ]
   }
 }
