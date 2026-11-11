@@ -1,7 +1,7 @@
 {
-  "versionCode": ,
-  "versionName": "",
-  "downloadUrl": "https://github.com/Yatharthmode/reward/raw/refs/heads/main/apk-debug.apks",
+  "versionCode": 2,
+  "versionName": "1.0.2",
+  "downloadUrl": "https://github.com/Yatharthmode/reward/raw/refs/heads/main/NOVEX_1.0.2.apk",
   "message": "New update available!",
   "details": [
     "Added Random Matchmaking",
